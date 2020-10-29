@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: Jon-zachary/netlifygatsbytestsite
+  branch: main
 
 media_folder: static/assets
 public_folder: /assets
